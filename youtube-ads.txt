@@ -3,6 +3,7 @@ r4---sn-4pcxgapo3-aixs.googlevideo.com
 r1---sn-2uja-3ipe7.googlevideo.com
 r4---sn-2uja-3ipe7.googlevideo.com
 r3---sn-4pcxgapo3-aixs.googlevideo.com
+r2---sn-4pcxgapo3-aixs.googlevideo.com
 
 
 
